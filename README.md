@@ -1,2 +1,1 @@
-# data_FGV
-Datasets for my Exploratory Data Analysis Course
+Datasets for all my courses
